@@ -15,4 +15,4 @@ Note that the notebooks have additional exploration techniques such as Rolling A
 ### Useful tip
 ![alt text](https://github.com/gg3883/ForecastingMicrogridML/blob/master/images/Forecasting%20Horizons.jpg)
 
-#### Note: My master thesis details the exploration and analysis
+#### Note: My master thesis details the exploration and analysis, feel free to message me for details.
