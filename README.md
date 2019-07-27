@@ -1,5 +1,5 @@
 # Forecasting in Microgrids using Machine Learning
-Forecasting Demand &amp; Supply in a renewable energy microgrid: Using Machine Learning models: LSTM (Long short-term memory), GRU (Gated recurrent unit) &amp; RNN (Recurrent neural network). The data is real-world, sourced from the Green Energy Park in Brussels. The models are also often called deep learning, however I've designed a shallow architecture.
+Forecasting Demand &amp; Supply in a renewable energy microgrid: Using Machine Learning models: LSTM (Long short-term memory), GRU (Gated recurrent unit) &amp; RNN (Recurrent neural network). The data is real-world, sourced from the Green Energy Park in Brussels. Used shallow architecture but can be edited for deep learning.
 
 ## Data Exploration
 ![alt text](https://github.com/gg3883/ForecastingMicrogridML/blob/master/images/Description.jpg)
