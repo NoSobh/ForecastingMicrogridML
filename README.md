@@ -5,7 +5,7 @@ Forecasting Demand &amp; Supply in a renewable energy microgrid: Using Machine L
 ![alt text](https://github.com/gg3883/ForecastingMicrogridML/blob/master/images/Description.jpg)
 Note that the notebooks have additional exploration techniques such as Rolling Average, Differencing, Normal Distributio, Scatter Plots and other useful diagrams. Each gives insight into the chosen model architecture.
 
-## Lag
+## Autocorrelation
 ![alt text](https://github.com/gg3883/ForecastingMicrogridML/blob/master/images/Lags.jpg)
 
 ## Results
